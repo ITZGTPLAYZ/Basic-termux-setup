@@ -1,7 +1,7 @@
 
 # 𝙱𝙰𝚂𝙸𝙲 𝚃𝙴𝚁𝙼𝚄𝚇 𝚂𝙴𝚃𝚄𝙿
 
-  ![Made in Bangladesh] (https://img.shields.io/badge/Made%20in-Bangladesh-green?style=for-the-badge&labelColor=red)
+![Made in Bangladesh] (https://img.shields.io/badge/Made%20in-Bangladesh-green?style=for-the-badge&labelColor=red)
 
   ![header](https://i.postimg.cc/Fs2prMSq/images-1.png)
 
