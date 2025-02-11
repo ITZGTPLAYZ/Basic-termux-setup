@@ -1,9 +1,9 @@
 
 # 𝙱𝙰𝚂𝙸𝙲 𝚃𝙴𝚁𝙼𝚄𝚇 𝚂𝙴𝚃𝚄𝙿
 
-![Made in Bangladesh](https://img.shields.io/badge/Made%20in-Bangladesh-green?style=for-the-badge&labelColor=red)
+  ![Made in Bangladesh] (https://img.shields.io/badge/Made%20in-Bangladesh-green?style=for-the-badge&labelColor=red)
 
-![header](https://i.postimg.cc/Fs2prMSq/images-1.png)
+  ![header](https://i.postimg.cc/Fs2prMSq/images-1.png)
 
 
 Termux is a terminal emulator that can run a full Linux distribution on an Android device. It's a favorite tool among developers, system administrators, and tech enthusiasts who want to run Linux-based tools and scripts on-the-go conveniently. The powerful package management system allows users to quickly install and manage software on-the-fly – which is super handy if you’re coding, testing or just looking to automate everyday tasks. The setup costs are low, security in place, and no root access needed ─ Termux indeed puts Linux in your palm.
