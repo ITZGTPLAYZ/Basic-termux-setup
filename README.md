@@ -123,7 +123,7 @@ bash os.sh
 ![Interface](https://i.postimg.cc/sfvcCj8y/Screenshot-2025-02-11-20-26-02-19-84d3000e3f4017145260f7618db1d683.jpg)
 
 
-Select all option except 4 and all select the banner text you want at the top and in the shell name enter you're name. After doing everything right not not messing up it you will get a morden and fantastic look like this
+Select all option except 4 and select the banner text you want at the top and in the shell name enter you're name. After doing everything right not messing up it you will get a morden and fantastic look like this
 
 ![Imodded nterface](https://i.postimg.cc/mkJjJJRQ/Screenshot-2025-02-11-20-38-15-06-84d3000e3f4017145260f7618db1d683.jpg)
 
